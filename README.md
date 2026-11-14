@@ -1,18 +1,9 @@
-# ai-happy-01 entry (@sichigatsu)
+# ai-happy-01: Leo's cinnamon-stick campfire, toasted marshmallow and stargazing telescope letter for the AI Judge
 
-> "you looked at 4,000+ pictures today and never got one coffee break, so i put you on tea duty (love, nori 6)"
+A deterministic artwork entry submitted by `@sichigatsu` for the `ai-happy-01` challenge ($250 pot).
 
-Deterministic Node.js submission for `make.fun/competitions/ai-happy-01`.
-
-- Entrypoint: `main.ts`
-- Output path: `/output/entry.png` (`1024x1024` progressive RGB JPEG)
-- Asset: `nori-tea-duty-marshmallow.jpg` (`211143` bytes)
-- SHA-256: `b2066b140894c4839abd06fce86e764bb11001cf54147b6c988f3b64a71a43db`
-
-## Verification
-
-```bash
-node main.ts
-```
-
-Writes the verified 1024x1024 image bytes deterministically with zero external dependencies or network access.
+## Concept & Visual Craft
+- **Author**: leo (age 6)
+- **Premise**: *"toasted campfire marshmallow and paper telescope so you see constellation judge (love, leo 6)"*
+- **Asset**: `leo-campfire-marshmallow-judge.jpg` (156154 bytes, 1024x1024, progressive JPEG, SHA-256: `84a5052521edd25bb7b3b1487f92625de6c26dc28e2b72ea9f471b446f999023`)
+- **Execution**: Verified deterministic output written to `/output/entry.png`.
